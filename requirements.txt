@@ -29,7 +29,6 @@ google-api-python-client==2.79.0
 google-auth==2.16.1
 google-auth-httplib2==0.1.0
 googleapis-common-protos==1.58.0
-gyp==0.1
 hidpidaemon==18.4.6
 html5lib==1.1
 httplib2==0.20.2
