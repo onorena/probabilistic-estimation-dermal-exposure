@@ -5,7 +5,6 @@ beautifulsoup4==4.10.0
 beniget==0.4.1
 blinker==1.4
 bottle==0.12.19
-Brlapi==0.8.3
 Brotli==1.0.9
 cachetools==5.3.0
 certifi==2022.12.7
