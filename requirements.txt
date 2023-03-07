@@ -1,7 +1,6 @@
 appdirs==1.4.4
 attrs==21.2.0
 autosub @ git+https://github.com/agermanidis/autosub.git@d32389cb76e63ec6959111c3f989a72f36f726fe
-bcc==0.18.0
 beautifulsoup4==4.10.0
 beniget==0.4.1
 blinker==1.4
